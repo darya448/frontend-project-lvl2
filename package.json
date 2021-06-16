@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darya448/frontend-project-lvl2.git"
+  },
+  "author": "darya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darya448/frontend-project-lvl2/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/darya448/frontend-project-lvl2#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
