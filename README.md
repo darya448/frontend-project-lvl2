@@ -5,4 +5,3 @@
 
 [![Linter](https://github.com/darya448/frontend-project-lvl2/actions/workflows/node.js.yml/badge.svg)](https://github.com/darya448/frontend-project-lvl2/actions/workflows/node.js.yml)
 
-hello
